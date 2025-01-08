@@ -1,6 +1,6 @@
 ## Hello there 👋
 <!-- Banner Image -->
-![Profile Banner](https://github.com/pritom-roy/your-repo-name/raw/main/banner.png)
+![Profile Banner](https://github.com/pritom-roy/pritom-roy/raw/main/banner.jpeg)
 
 # Kamolesh Roy Pritom
 ### Aspiring Software Developer | Problem Solver | Lifelong Learner
