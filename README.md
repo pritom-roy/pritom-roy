@@ -42,4 +42,3 @@ I am passionate about technology and enjoy solving real-world problems using eff
 ## Stats & Contributions  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom-roy&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom-roy&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritom-roy&theme=radical)
