@@ -39,6 +39,21 @@ I am passionate about technology and enjoy solving real-world problems using eff
 
 ---
 
-## Stats & Contributions  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritom-roy&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritom-roy&layout=compact&theme=radical)  
+<div align="center">
+<a href="https://github.com/pritom-roy">
+
+<img src="https://raw.githubusercontent.com/pritom-roy/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/pritom-roy/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/pritom-roy/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/pritom-roy/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+
+</details>
+</div>
+
+ 
