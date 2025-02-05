@@ -2,7 +2,6 @@
   <img height="250" src="https://github.com/pritom-roy/pritom-roy/raw/main/ambition.PNG"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kamolesh-roy-pritom-97b103243/" target="_blank">
@@ -11,10 +10,10 @@
   <a href="mailto:pritomroy20062@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <p>+8801732792640</p>
 </div>
-<h3 align="center">Web Developer</h3>
 
-###
+<h3 align="center">Web Developer</h3>
 
 <h1 align="center">Kamolesh Roy Pritom</h1>
 
